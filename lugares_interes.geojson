@@ -2600,7 +2600,8 @@
         "name": "Puerto Arnela",
         "stars": "2",
         "tourism": "hotel",
-        "wheelchair": "yes"
+        "wheelchair": "yes",
+        "description": "Hotel restaurante Puerto Arnela"
       },
       "geometry": {
         "type": "Point",

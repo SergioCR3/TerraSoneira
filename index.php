@@ -34,17 +34,29 @@
         }).addTo(map);
 
         // Cargar datos de GeoJSON desde un archivo
-        fetch('lugares_interes.geojson')
-            .then(response => response.json())
-            .then(data => {
-                L.geoJSON(data, {
-                    onEachFeature: function (feature, layer) {
-                        if (feature.properties && feature.properties.name && feature.properties.description) {
-                            layer.bindPopup('<b>' + feature.properties.name + '</b><br>' + feature.properties.description);
-                        }
+fetch('lugares_interes.geojson')
+    .then(response => response.json())
+    .then(data => {
+        L.geoJSON(data, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng).on('click', function () {
+                    let popupContent = '<b>No data</b>'; // Mensaje predeterminado
+
+                    if (feature.properties && feature.properties.name) {
+                        popupContent = '<b>' + feature.properties.name + '</b>';
                     }
-                }).addTo(map);
-            });
-    </script>
+
+                    if (feature.properties && feature.properties.description) {
+                        popupContent += '<br>' + feature.properties.description;
+                    }
+
+                    this.bindPopup(popupContent).openPopup();
+                });
+            }
+        }).addTo(map);
+    })
+    .catch(error => {
+        console.error('Error loading GeoJSON:', error);
+    });    </script>
 </body>
 </html>
