@@ -4,2565 +4,229 @@
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
   "timestamp": "2023-10-31T17:14:45Z",
   "features": [
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "relation/2057655",
-        "addr:city": "Camariñas",
-        "addr:place": "O Cabo Vilán",
-        "addr:postcode": "15123",
-        "alt_name": "Centro de Interpretación dos Naufraxios da Costa da Morte",
-        "building": "yes",
+        "image": "images/faro.jpg",
+        "municipality": "Camariñas",
         "description": "El Centro de Interpretación de los Naufragios situado en el Faro Vilán divulga información de la historia de los naufragios y de los faros de la Costa da Morte a través de proyecciones en vídeo, piezas reales, fotografías y paneles con visores...",
-        "fee": "no",
-        "mapillary": "1341162419928745",
-        "mobile": "+34 647 608 158",
-        "museum": "history",
-        "name": "Museo do Faro",
-        "name:es": "Museo del Faro",
-        "name:gl": "Museo do Faro",
-        "nohousenumber": "yes",
-        "opening_hours": "Mo-Su 11:00-14:00, 15:30-19:00",
-        "operator": "Asociación Neria da Costa da Morte",
-        "operator:type": "public",
-        "phone": "+34 647 398 023",
-        "tourism": "museum",
-        "type": "multipolygon",
-        "website": "https://turismocamarinas.net/que-hacer/centro-de-interpretacion-de-los-naufragios/"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.211167,
-              43.1599692
-            ],
-            [
-              -9.211048,
-              43.1597479
-            ],
-            [
-              -9.2108907,
-              43.159793
-            ],
-            [
-              -9.2107363,
-              43.1598373
-            ],
-            [
-              -9.2108541,
-              43.160058
-            ],
-            [
-              -9.2109872,
-              43.1600236
-            ],
+        "name": "Museo do Faro"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates":
             [
               -9.211167,
               43.1599692
             ]
-          ],
-          [
-            [
-              -9.2110467,
-              43.1599298
-            ],
-            [
-              -9.2109132,
-              43.159971
-            ],
-            [
-              -9.210855,
-              43.1598707
-            ],
-            [
-              -9.2109885,
-              43.1598295
-            ],
-            [
-              -9.2110067,
-              43.1598609
-            ],
-            [
-              -9.2110467,
-              43.1599298
-            ]
-          ]
-        ]
-      },
-      "id": "relation/2057655"
+        }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/368741936",
-        "addr:city": "Camelle",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa do Flaire",
-        "building": "house",
-        "building:levels": "1",
-        "capacity": "6",
-        "description": "«Casa da Alta» es una vivienda de uso turístico ubicada en la localidad marinera de Camelle (Camariñas), puerto pesquero tradicional, en el corazón de la Costa da Morte.",
-        "internet_access": "no",
-        "name": "Casa da Alta",
-        "nohousenumber": "yes",
-        "phone": "+34 617 12 16 41",
-        "tourism": "chalet",
-        "website": "http://casadaalta.com/?utm_source=gmb&utm_medium=referral",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0898863,
-              43.1886163
-            ],
-            [
-              -9.0900008,
-              43.188555
-            ],
-            [
-              -9.0899765,
-              43.1885371
-            ],
-            [
-              -9.0899019,
-              43.1884823
-            ],
-            [
-              -9.0898022,
-              43.1885419
-            ],
-            [
-              -9.0898863,
-              43.1886163
-            ]
-          ]
-        ]
-      },
-      "id": "way/368741936"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/368744449",
-        "addr:city": "Camelle",
-        "addr:housenumber": "10",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa do Muelle",
-        "building": "house",
-        "building:levels": "2",
-        "capacity": "4",
-        "description": "El apartamento tiene 2 dormitorios, 1 baño, ropa de cama, toallas, TV de pantalla plana, zona de comedor, cocina totalmente equipada y balcón con vistas al mar.",
-        "internet_access": "no",
-        "name": "Apartamento Camelle",
-        "rooms": "2",
-        "tourism": "apartment",
-        "website": "https://www.booking.com/hotel/es/apartamento-porto-de-camelle-camelle.html?aid=1636199",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0915524,
-              43.1841585
-            ],
-            [
-              -9.0915622,
-              43.1841411
-            ],
-            [
-              -9.0915973,
-              43.1840691
-            ],
-            [
-              -9.0915028,
-              43.1840439
-            ],
-            [
-              -9.0914753,
-              43.1840979
-            ],
-            [
-              -9.0914575,
-              43.1841329
-            ],
-            [
-              -9.0915524,
-              43.1841585
-            ]
-          ]
-        ]
-      },
-      "id": "way/368744449"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/368749808",
-        "addr:city": "Camelle",
-        "addr:housenumber": "10",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Fornelle",
-        "building": "house",
-        "building:levels": "2",
-        "capacity": "3",
-        "description": "El apartamento cuenta con 1 dormitorio, TV de pantalla plana y cocina totalmente equipada con microondas, nevera, lavadora, fogones y tostadora. Cuenta con jardín y barbacoa.",
-        "email": "correodeluis@yahoo.es",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "name": "CasadeLucía",
-        "phone": "+34 600 21 02 14",
-        "rooms": "1",
-        "tourism": "chalet",
-        "website": "https://casadelucia.business.site/?utm_source=googlemybusiness&utm_medium=referral",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0927331,
-              43.1850657
-            ],
-            [
-              -9.0927655,
-              43.1849935
-            ],
-            [
-              -9.0927764,
-              43.1849691
-            ],
-            [
-              -9.0927543,
-              43.1849638
-            ],
-            [
-              -9.0927221,
-              43.1849562
-            ],
-            [
-              -9.0926835,
-              43.184947
-            ],
-            [
-              -9.0926696,
-              43.1849437
-            ],
-            [
-              -9.092626,
-              43.1849333
-            ],
-            [
-              -9.0925827,
-              43.1850298
-            ],
-            [
-              -9.0927331,
-              43.1850657
-            ]
-          ]
-        ]
-      },
-      "id": "way/368749808"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/368757693",
-        "addr:city": "Camelle",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Agra de Abaixo",
-        "building": "yes",
-        "building:levels": "2",
-        "description": "Situada en un entorno forestal y sólo accesible por una pista asfaltada y con sitio para aparcar 3 vehículos. Ideal para niños y mascotas y posee barbacoa, comedor exterior y hórreo.  Consta de 2 plantas y con un terreno de 800m2.",
-        "internet_access": "no",
-        "mapillary": "329200863005774",
-        "name": "Casa Cheiña",
-        "nohousenumber": "yes",
-        "roof:levels": "0",
-        "tourism": "chalet",
-        "website": "https://www.airbnb.es/rooms/876100565324338320?_set_bev_on_new_domain=1693296548_NzBkZmEwN2U5ZDZi&source_impression_id=p3_1693296549_GPl1i3Z2pttIsHun",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0903493,
-              43.1767431
-            ],
-            [
-              -9.0903596,
-              43.1767075
-            ],
-            [
-              -9.0903714,
-              43.1766669
-            ],
-            [
-              -9.0904942,
-              43.1766859
-            ],
-            [
-              -9.0905041,
-              43.1766874
-            ],
-            [
-              -9.0905239,
-              43.1766192
-            ],
-            [
-              -9.0903726,
-              43.1765959
-            ],
-            [
-              -9.0903874,
-              43.1765448
-            ],
-            [
-              -9.0903434,
-              43.176538
-            ],
-            [
-              -9.0902867,
-              43.1767335
-            ],
-            [
-              -9.0903493,
-              43.1767431
-            ]
-          ]
-        ]
-      },
-      "id": "way/368757693"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/368766820",
-        "building": "house",
-        "building:levels": "1",
-        "capacity": "9",
-        "description": "Tiene cocina con comedor y sala y cuarto de lavadora, con 1 baño completo en planta principal  En la planta superior hay 2 suite de matrimonio con baño dentro y tv en cada habitacion  2 habitaciones más de matrimonio y 1 individualy otro baño completo",
-        "internet_access": "no",
-        "mapillary": "195072196895977",
-        "name": "Camelle Angel",
-        "phone": "+34 677 59 76 75",
-        "tourism": "chalet",
-        "website": "https://vivircomagalegos.com/Casas-rurales-galicia/camelle-angel",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0899501,
-              43.1788317
-            ],
-            [
-              -9.0899404,
-              43.1787904
-            ],
-            [
-              -9.089923,
-              43.1787625
-            ],
-            [
-              -9.0898331,
-              43.1787791
-            ],
-            [
-              -9.0898513,
-              43.1788476
-            ],
-            [
-              -9.0898985,
-              43.1788384
-            ],
-            [
-              -9.0899501,
-              43.1788317
-            ]
-          ]
-        ]
-      },
-      "id": "way/368766820"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/368818363",
-        "addr:city": "Camelle",
-        "addr:housenumber": "94",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Principal",
-        "building": "yes",
-        "building:levels": "2",
-        "description": "Casa con 5 habitaciones (3 dobles y 2 individuales, 1 de ellas con 2 camas).  Muy acogedora, con todos los servicios necesarios.",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "level": "2",
-        "mapillary": "1039471440525332",
-        "name": "Alojamiento vacacional Mari&Fernando",
-        "phone": "+34 600 83 39 22",
-        "rooms": "5",
-        "tourism": "chalet",
-        "website": "https://alojamiento-vacacional.negocio.site/",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.09304,
-              43.179093
-            ],
-            [
-              -9.093149,
-              43.1791201
-            ],
-            [
-              -9.0931659,
-              43.1790493
-            ],
-            [
-              -9.0931168,
-              43.1790284
-            ],
-            [
-              -9.0930693,
-              43.1790193
-            ],
-            [
-              -9.0930552,
-              43.1790517
-            ],
-            [
-              -9.09304,
-              43.179093
-            ]
-          ]
-        ]
-      },
-      "id": "way/368818363"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/368945303",
-        "addr:city": "Braño",
-        "addr:housenumber": "102",
-        "addr:place": "Braño",
-        "addr:postcode": "15288",
-        "building": "yes",
-        "building:levels": "2",
-        "description": "Todos los alojamientos incluyen cocina totalmente equipada con microondas, zona de estar, TV de pantalla plana y baño privado con bañera o ducha y secador de pelo.",
-        "email": "reservas@acasadacanle.com",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "name": "A Casa da Canle",
-        "phone": "+34 669 18 21 37",
-        "rooms": "3",
-        "tourism": "apartment",
-        "website": "http://acasadacanle.com/"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0990073,
-              43.1463658
-            ],
-            [
-              -9.0990502,
-              43.1463259
-            ],
-            [
-              -9.0990892,
-              43.1463482
-            ],
-            [
-              -9.0991318,
-              43.1463726
-            ],
-            [
-              -9.0991446,
-              43.1463607
-            ],
-            [
-              -9.0991728,
-              43.1463768
-            ],
-            [
-              -9.0992487,
-              43.1463062
-            ],
-            [
-              -9.0990229,
-              43.146177
-            ],
-            [
-              -9.0989812,
-              43.1462158
-            ],
-            [
-              -9.0989988,
-              43.1462259
-            ],
-            [
-              -9.098909,
-              43.1463095
-            ],
-            [
-              -9.0990073,
-              43.1463658
-            ]
-          ]
-        ]
-      },
-      "id": "way/368945303"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/437407407",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.15886,
-              43.1298643
-            ],
-            [
-              -9.1590387,
-              43.1296731
-            ],
-            [
-              -9.1590865,
-              43.1294936
-            ],
-            [
-              -9.1589998,
-              43.1294213
-            ],
-            [
-              -9.1588547,
-              43.129349
-            ],
-            [
-              -9.1586689,
-              43.1293438
-            ],
-            [
-              -9.1585114,
-              43.1293993
-            ],
-            [
-              -9.1583556,
-              43.1295982
-            ],
-            [
-              -9.1581557,
-              43.129832
-            ],
-            [
-              -9.1579079,
-              43.1300192
-            ],
-            [
-              -9.1578318,
-              43.1300954
-            ],
-            [
-              -9.1574027,
-              43.1302323
-            ],
-            [
-              -9.1572072,
-              43.1304209
-            ],
-            [
-              -9.1569455,
-              43.1305545
-            ],
-            [
-              -9.156952,
-              43.1307607
-            ],
-            [
-              -9.1570898,
-              43.1309918
-            ],
-            [
-              -9.1572293,
-              43.1312258
-            ],
-            [
-              -9.1573051,
-              43.1313529
-            ],
-            [
-              -9.1573678,
-              43.1314231
-            ],
-            [
-              -9.1574156,
-              43.1313692
-            ],
-            [
-              -9.1575852,
-              43.1311784
-            ],
-            [
-              -9.1576235,
-              43.1311409
-            ],
-            [
-              -9.1581256,
-              43.1306611
-            ],
-            [
-              -9.1583769,
-              43.1304622
-            ],
-            [
-              -9.15886,
-              43.1298643
-            ]
-          ]
-        ]
-      },
-      "id": "way/437407407"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/437560130",
+        "municipality": "Camariñas",
         "name": "Complexo Turístico de Aldea Madeira",
-        "tourism": "camp_site"
+        "description": "Complexo turístico Aldea Madeira en Xaviña, Camariñas."
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+        "type": "Point",
+        "coordinates": 
             [
               -9.1435011,
-              43.1697609
-            ],
-            [
-              -9.1435188,
-              43.1693066
-            ],
-            [
-              -9.143487,
-              43.168687
-            ],
-            [
-              -9.1433879,
-              43.1681527
-            ],
-            [
-              -9.1432746,
-              43.1677758
-            ],
-            [
-              -9.1423863,
-              43.1680908
-            ],
-            [
-              -9.1424747,
-              43.1683566
-            ],
-            [
-              -9.1425703,
-              43.1690458
-            ],
-            [
-              -9.1425491,
-              43.1693479
-            ],
-            [
-              -9.1425915,
-              43.1693814
-            ],
-            [
-              -9.142726,
-              43.1693375
-            ],
-            [
-              -9.1429101,
-              43.1693685
-            ],
-            [
-              -9.1429809,
-              43.1694253
-            ],
-            [
-              -9.1430269,
-              43.1695957
-            ],
-            [
-              -9.1435011,
-              43.1697609
+              43.169760
             ]
-          ]
-        ]
-      },
-      "id": "way/437560130"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/659792420",
-        "addr:city": "Camariñas",
-        "addr:housenumber": "57",
-        "addr:postcode": "15123",
-        "addr:street": "Avenida da Coruña",
-        "alt_name": "Museo do Encaixe de Camariñas",
-        "building": "yes",
-        "charge": "2 EUR",
-        "contact:phone": "+34 981 737 004",
+        "municipality": "Camariñas",
         "description": "Museo creado con el objetivo de promover el conocimiento y la difusión de una práctica artesanal (el encaje) que perdura desde hace siglos en Camariñas y en otros lugares de la Costa da Morte.",
-        "email": "museodoencaixe@camarinas.net",
-        "fee": "yes",
-        "museum": "local",
-        "name": "Museo do Encaixe",
-        "opening_hours": "Sep-May Th-Sa 11:00-14:00,16:00-19:00; Sep-May PH,Su 11:00-14:00,16:00-18:00; Sep-May Mo-We off; Jun-Aug Tu-Sa 11:00-14:00,17:00-20:00; Jun-Aug PH,Su 11:00-14:00,17:00-19:00; Jun-Aug Mo off",
-        "operator": "Concello de Camariñas",
-        "operator:type": "public",
-        "phone": "+34 981 736 340",
-        "tourism": "museum",
-        "website": "https://camarinas.net/portal-cidadan/index/gl",
-        "wheelchair": "yes"
+        "name": "Museo do Encaixe"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1802103,
-              43.1300606
-            ],
-            [
-              -9.1802214,
-              43.1299281
-            ],
-            [
-              -9.1801306,
-              43.1299148
-            ],
-            [
-              -9.1800921,
-              43.1300233
-            ],
-            [
-              -9.1800846,
-              43.1300444
-            ],
+        "type": "Point",
+        "coordinates": 
             [
               -9.1802103,
               43.1300606
             ]
-          ]
-        ]
-      },
-      "id": "way/659792420"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/661039077",
-        "addr:city": "Camelle",
-        "addr:housenumber": "9",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa do Porto",
-        "building": "yes",
-        "fee": "yes",
-        "internet_access": "wlan",
-        "level": "2",
+        "municipality": "Camariñas",
         "name": "Museo Man de Camelle",
-        "opening_hours": "Jul-Aug Tu-Su 11:00-13:00,16:00-19:00; Jul-Aug Mo off; Sep-Jun PH,Sa,Su 11:00-13:00,16:00-19:00",
-        "operator": "Concello de Camariñas",
-        "tourism": "museum",
-        "wheelchair": "yes"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.09133,
-              43.1844659
-            ],
-            [
-              -9.0914195,
-              43.18427
-            ],
-            [
-              -9.0912857,
-              43.1842374
-            ],
-            [
-              -9.091271,
-              43.1842341
-            ],
-            [
-              -9.0912059,
-              43.1842818
-            ],
-            [
-              -9.0911653,
-              43.1843429
-            ],
-            [
-              -9.0911293,
-              43.1843895
-            ],
-            [
-              -9.0911863,
-              43.184413
-            ],
+        "description": "Museo creado con el objetivo de conmemorar a Man de Camelle o artista do pobo."
+       },  
+       "geometry": {
+        "type": "Point",
+        "coordinates": 
             [
               -9.09133,
               43.1844659
             ]
-          ]
-        ]
-      },
-      "id": "way/661039077"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/855895875",
-        "name:signed": "no",
-        "tourism": "caravan_site"
+        "image": "images/Letras-camarinas.jpeg",
+        "municipality": "Camariñas",
+        "name": "Mostra do Encaixe 30 Aniversario",
+        "description": "Letreiro de predra conmemorativo do 30 aniversario da Mostra do encaixe de Camariñas."
+
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1829982,
-              43.1263459
-            ],
-            [
-              -9.1830289,
-              43.1263394
-            ],
-            [
-              -9.1830587,
-              43.125974
-            ],
-            [
-              -9.1830173,
-              43.1259729
-            ],
-            [
-              -9.1829982,
-              43.1263459
-            ]
-          ]
-        ]
-      },
-      "id": "way/855895875"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/856192122",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "material": "stone",
-        "name": "Mostra do Encaixe",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.180744,
-              43.1294002
-            ],
-            [
-              -9.180707,
-              43.1294441
-            ],
-            [
-              -9.1806877,
-              43.1294599
-            ],
-            [
-              -9.1809177,
-              43.1294744
-            ],
+        "type": "Point",
+        "coordinates": 
             [
               -9.180744,
               43.1294002
             ]
-          ]
-        ]
-      },
-      "id": "way/856192122"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/859455811",
-        "addr:city": "Camariñas",
-        "addr:housenumber": "52",
-        "addr:place": "Área da Vila",
-        "addr:postcode": "15123",
-        "amenity": "restaurant",
-        "bar": "yes",
-        "brewery": "yes",
-        "building": "yes",
-        "contact:phone": "+34 663 585 076",
-        "description": "Nuestro hotel, al lado del mar y alejado de la carretera, es un lugar tranquilo e ideal para disfrutar de la naturaleza y el relax de la Costa da Morte.",
-        "email": "reservas@hotelplayadecamarinas.com",
-        "name": "Hotel Playa de Camariñas",
-        "outdoor_seating": "yes",
-        "rooms": "22",
-        "toilets": "yes",
-        "tourism": "hotel",
-        "website": "https://hotelplayadecamarinas.com/",
-        "website:menu": "https://playadecamarinas.com/restaurante/carta-precios/"
-      },
+        "image": "images/hotelplaya.jpg",
+        "municipality": "Camariñas",
+        "description": "Hotel, al lado del mar y alejado de la carretera, es un lugar tranquilo e ideal para disfrutar de la naturaleza y el relax de la Costa da Morte.",
+        "name": "Hotel Playa de Camariñas"
+         },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1765517,
-              43.1387743
-            ],
-            [
-              -9.1766717,
-              43.1385942
-            ],
-            [
-              -9.1765431,
-              43.138579
-            ],
-            [
-              -9.1765318,
-              43.1385777
-            ],
-            [
-              -9.1765084,
-              43.1385749
-            ],
-            [
-              -9.1764685,
-              43.1385701
-            ],
-            [
-              -9.1764648,
-              43.1386489
-            ],
-            [
-              -9.1764503,
-              43.1386633
-            ],
-            [
-              -9.1764497,
-              43.1387084
-            ],
-            [
-              -9.1764049,
-              43.1386933
-            ],
-            [
-              -9.1763939,
-              43.1387148
-            ],
+        "type": "Point",
+        "coordinates":            
             [
               -9.1765517,
               43.1387743
             ]
-          ]
-        ]
-      },
-      "id": "way/859455811"
+      }
+      
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/966172476",
-        "access": "yes",
-        "addr:city": "Vimianzo",
-        "addr:housenumber": "54",
-        "addr:postcode": "15129",
-        "addr:street": "Rúa Trasariz",
-        "capacity": "11",
-        "covered": "no",
-        "description": "Área de autocaravanas.",
-        "description:en": "Area for motorhomes",
-        "description:fr": "aire de stationnement pour camping-car.",
-        "drinking_water": "yes",
-        "fee": "no",
-        "image": "https://photos.app.goo.gl/yibGeLXgpQWVtqJD6",
-        "internet_access": "no",
-        "maxstay": "no",
-        "operator": "Ayuntamiento de Salceda de Caselas",
-        "power_supply": "no",
-        "sanitary_dump_station": "yes",
-        "sanitary_dump_station:chemical_toilet": "yes",
-        "sanitary_dump_station:grey_water": "yes",
-        "sanitary_dump_station:round_drain": "yes",
-        "supervised": "no",
-        "surface": "asphalt",
-        "tourism": "caravan_site",
-        "water_point": "yes"
+        "municipality": "Vimianzo",
+        "name": "Área de autocaravanas.",
+        "description": "Área de autocaravanas."
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0294476,
-              43.1134357
-            ],
-            [
-              -9.0292259,
-              43.1137069
-            ],
-            [
-              -9.0293577,
-              43.1137803
-            ],
-            [
-              -9.0296727,
-              43.1134584
-            ],
-            [
-              -9.0297827,
-              43.1133555
-            ],
-            [
-              -9.0296132,
-              43.1132529
-            ],
+        "type": "Point",
+        "coordinates": 
             [
               -9.0294476,
               43.1134357
             ]
-          ]
-        ]
-      },
-      "id": "way/966172476"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/971693154",
-        "access": "yes",
-        "addr:city": "Arou",
-        "addr:postcode": "15121",
-        "landuse": "grass",
-        "tourism": "picnic_site"
+        "municipality": "Camariñas",
+        "name": "Área de picnic.",
+        "description": "Paseo fluvial de Arou."
+  
+        
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.104994,
-              43.1854066
-            ],
-            [
-              -9.104982,
-              43.1854337
-            ],
-            [
-              -9.1049744,
-              43.1854509
-            ],
-            [
-              -9.1049266,
-              43.185616
-            ],
-            [
-              -9.1048552,
-              43.1858312
-            ],
-            [
-              -9.10488,
-              43.1858695
-            ],
-            [
-              -9.1049217,
-              43.1858685
-            ],
-            [
-              -9.10498,
-              43.1857309
-            ],
-            [
-              -9.1050334,
-              43.1856047
-            ],
-            [
-              -9.1050746,
-              43.1854855
-            ],
-            [
-              -9.1050196,
-              43.1854679
-            ],
-            [
-              -9.1050221,
-              43.1854097
-            ],
+        "type": "Point",
+        "coordinates": 
+          
             [
               -9.104994,
               43.1854066
             ]
-          ]
-        ]
-      },
-      "id": "way/971693154"
+      }
     },
+   
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1050730544",
-        "addr:city": "Camelle",
-        "addr:housenumber": "5",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Nova",
-        "building": "house",
-        "building:levels": "2",
-        "description": "Casa en pueblo de la 'costa da morte', centrica, proxima a playa. 2 habitaciones una con cama de matrimonio y otra de gemelas. Cocina completa con lavadora. Baño y aseo en la planta baja. Salón. Terraza.",
-        "internet_access": "no",
-        "mapillary": "1653226208509955",
-        "name": "Casa do Flaire",
-        "rooms": "2",
-        "tourism": "chalet",
-        "website": "https://www.tripadvisor.es/VacationRentalReview-g1082748-d5435369-Casa_do_Flaire-Camelle_Province_of_A_Coruna_Galicia.html",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.092158,
-              43.1848273
-            ],
-            [
-              -9.0920822,
-              43.1847955
-            ],
-            [
-              -9.0920619,
-              43.1848213
-            ],
-            [
-              -9.0920428,
-              43.1848455
-            ],
-            [
-              -9.0921186,
-              43.1848772
-            ],
-            [
-              -9.092158,
-              43.1848273
-            ]
-          ]
-        ]
-      },
-      "id": "way/1050730544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1064242746",
-        "addr:city": "Camelle",
-        "addr:housenumber": "66",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Principal",
-        "building": "yes",
-        "building:levels": "2",
-        "description": "Ofrecemos diferentes opciones para cada tipo de viajero. En nuestras estancias, puede alojarse en una litera simple en Man de Camelle o incluso con su pareja, familia o amigos en la ciudad de Agra .",
-        "email": "info@orefuxiodonaufrago.com",
-        "guest_house": "bed_and_breakfast",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "mapillary": "1014482716399961",
-        "name": "O Refuxio do Náufrago",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "phone": "+34 623 994 992",
-        "rooms": "4",
-        "tourism": "hostel",
-        "website": "https://orefuxiodonaufrago.com/",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0925759,
-              43.1801842
-            ],
-            [
-              -9.0925964,
-              43.1801382
-            ],
-            [
-              -9.0925585,
-              43.180121
-            ],
-            [
-              -9.0925174,
-              43.1801065
-            ],
-            [
-              -9.0925076,
-              43.1801264
-            ],
-            [
-              -9.0924931,
-              43.180156
-            ],
-            [
-              -9.092538,
-              43.1801681
-            ],
-            [
-              -9.0925759,
-              43.1801842
-            ]
-          ]
-        ]
-      },
-      "id": "way/1064242746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1064242749",
-        "addr:city": "Camelle",
-        "addr:housenumber": "58",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Principal",
-        "building": "house",
-        "building:levels": "2",
-        "capacity": "8",
-        "description": "Esta casa cuenta con 4 dormitorios, cocina con microondas y nevera, TV de pantalla plana, zona de estar y baño con ducha.",
-        "internet_access": "no",
-        "name": "A Casa de Inés",
-        "rooms": "4",
-        "tourism": "chalet",
-        "website": "https://www.booking.com/hotel/es/a-casa-de-ines.es.html?aid=1636199&label=bin859jc-1DCAsoRkIOYS1jYXNhLWRlLWluZXNIM1gDaEaIAQGYAQq4ARfIAQzYAQPoAQH4AQSIAgGoAgO4Atj525gGwAIB0gIkNmRiNmIzY2UtOTJiMi00NGNmLTkwNmMtOWEyZTFiYmI5ZDUz2AIE4AIB&sid=ef5ed062b59f6ce0cb5a6",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.092477,
-              43.1804437
-            ],
-            [
-              -9.0925041,
-              43.1803642
-            ],
-            [
-              -9.0924134,
-              43.1803435
-            ],
-            [
-              -9.0923989,
-              43.1803828
-            ],
-            [
-              -9.0923835,
-              43.1804267
-            ],
-            [
-              -9.0924317,
-              43.1804354
-            ],
-            [
-              -9.092477,
-              43.1804437
-            ]
-          ]
-        ]
-      },
-      "id": "way/1064242749"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1071178739",
-        "addr:city": "Arou",
-        "addr:housenumber": "3",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa da Praia",
-        "building": "apartments",
-        "building:levels": "3",
-        "description": "Apartamentos turísticos situados en un enclave natural increíble, con una situación idónea para visitar numerosos puntos de interés de A Costa da Morte, A Coruña, Santiago, etc.",
-        "email": "osfaros.pisosturisticos@gmail.com",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "mobile": "+34 669 712 938",
-        "name": "Os Faros Pisos Turísticos",
-        "phone": "+34 669 136 779",
-        "tourism": "apartment",
-        "website": "https://osfarospisosturisticos.es/",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1068022,
-              43.1839211
-            ],
-            [
-              -9.1069215,
-              43.1838399
-            ],
-            [
-              -9.1068951,
-              43.1838165
-            ],
-            [
-              -9.1068758,
-              43.1837957
-            ],
-            [
-              -9.1068321,
-              43.1838073
-            ],
-            [
-              -9.1067704,
-              43.183774
-            ],
-            [
-              -9.1067593,
-              43.18378
-            ],
-            [
-              -9.106678,
-              43.183824
-            ],
-            [
-              -9.1067087,
-              43.1838553
-            ],
-            [
-              -9.1067128,
-              43.1838595
-            ],
-            [
-              -9.1067396,
-              43.1838842
-            ],
-            [
-              -9.106753,
-              43.1838921
-            ],
-            [
-              -9.1068022,
-              43.1839211
-            ]
-          ]
-        ]
-      },
-      "id": "way/1071178739"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1071178748",
-        "addr:city": "Arou",
-        "addr:housenumber": "6",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Principal",
-        "building": "house",
-        "building:levels": "1",
-        "description": "Casita a pie de playa para 4 personas en 2 habitaciones y 1 baño y 1 aseo.",
-        "internet_access": "no",
-        "name": "Casa de Piedra",
-        "phone": "+34 677 597 675",
-        "rooms": "2",
-        "tourism": "apartment",
-        "website": "https://vivircomagalegos.com/Casas-rurales-galicia/casa-de-piedra",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1072134,
-              43.1837489
-            ],
-            [
-              -9.1072545,
-              43.1836948
-            ],
-            [
-              -9.1071929,
-              43.1836601
-            ],
-            [
-              -9.1071483,
-              43.1836994
-            ],
-            [
-              -9.1071801,
-              43.1837305
-            ],
-            [
-              -9.1071953,
-              43.1837454
-            ],
-            [
-              -9.1072123,
-              43.1837534
-            ],
-            [
-              -9.1072134,
-              43.1837489
-            ]
-          ]
-        ]
-      },
-      "id": "way/1071178748"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1072527272",
-        "addr:city": "Camelle",
-        "addr:housenumber": "7",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Tarasca",
-        "building": "house",
-        "building:levels": "2",
-        "description": "La casa cuenta con 6 dormitorios, 2 baños, ropa de cama, toallas, TV de pantalla plana con canales por cable, zona de comedor, cocina totalmente equipada y patio con vistas al jardín. Cuenta con barbacoa y terraza.",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "name": "Casa «El Rincón de Alberto»",
-        "phone": "+34 697 54 09 52",
-        "rooms": "6",
-        "tourism": "chalet",
-        "website": "https://www.booking.com/hotel/es/casa-cerca-de-la-playa-camelle.es.html?aid=356980;label=gog235jc-1FCAsoRkIeY2FzYS1jZXJjYS1kZS1sYS1wbGF5YS1jYW1lbGxlSDNYA2hGiAECmAEKwgEMc3VzcGljaW91cy1syAER2AEB6AEB-AEMiAIBsgIMc3VzcGljaW91cy1suALb3bGABsACAdICJGU0YzY1YmMzLWM",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0929777,
-              43.1855823
-            ],
-            [
-              -9.0930133,
-              43.1855169
-            ],
-            [
-              -9.092913,
-              43.1854879
-            ],
-            [
-              -9.0928984,
-              43.1855148
-            ],
-            [
-              -9.0928774,
-              43.1855533
-            ],
-            [
-              -9.0929777,
-              43.1855823
-            ]
-          ]
-        ]
-      },
-      "id": "way/1072527272"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1072527276",
-        "addr:city": "Camelle",
-        "addr:housenumber": "8",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Tarasca",
-        "building": "house",
-        "building:levels": "2",
-        "capacity": "4",
-        "description": "Apartamento que cuenta con 2 dormitorios, cocina con microondas y nevera, TV de pantalla plana, zona de estar y baño con bañera.",
-        "internet_access": "no",
-        "name": "Apartamento playa Camelle 2º",
-        "rooms": "2",
-        "tourism": "apartment",
-        "website": "https://www.booking.com/hotel/es/apto-playa-camelle-2o.es.html?aid=1636199;label=bin859jc-1DCAsoRkITYXBhcnRhbWVudG8tdGFyYXNjYUgzWANoRogBAZgBCrgBF8gBDNgBA-gBAfgBBIgCAagCA7gC28bbmAbAAgHSAiQ0NjI4MTE1MC03NmZlLTRjYTctYjNlOS0xNTExOGEwZDY0ZDXYAgTgAgE;sid=ef5ed06",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0928143,
-              43.185573
-            ],
-            [
-              -9.0928354,
-              43.1855423
-            ],
-            [
-              -9.0928586,
-              43.1855088
-            ],
-            [
-              -9.0927384,
-              43.1854648
-            ],
-            [
-              -9.0926941,
-              43.185529
-            ],
-            [
-              -9.0928143,
-              43.185573
-            ]
-          ]
-        ]
-      },
-      "id": "way/1072527276"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1075001899",
-        "addr:city": "Camelle",
-        "addr:housenumber": "20",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa Tarasca",
-        "building": "house",
-        "building:levels": "1",
-        "capacity": "6",
-        "description": "Apartamento que cuenta con 3 dormitorios, cocina con nevera y fogones, TV de pantalla plana, zona de estar y baño con ducha.",
-        "internet_access": "no",
-        "name": "Apartamento playa Camelle bajo",
-        "rooms": "3",
-        "tourism": "apartment",
-        "website": "https://www.booking.com/hotel/es/apart-playa-camelle-1.es.html?aid=1636199;label=bin859jc-1DCAsoRkITYXBhcnRhbWVudG8tdGFyYXNjYUgzWANoRogBAZgBCrgBF8gBDNgBA-gBAfgBBIgCAagCA7gC28bbmAbAAgHSAiQ0NjI4MTE1MC03NmZlLTRjYTctYjNlOS0xNTExOGEwZDY0ZDXYAgTgAgE;sid=ef5ed06",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0925026,
-              43.1860719
-            ],
-            [
-              -9.0924823,
-              43.1860226
-            ],
-            [
-              -9.09247,
-              43.1859927
-            ],
-            [
-              -9.0923527,
-              43.1860184
-            ],
-            [
-              -9.0923854,
-              43.1860976
-            ],
-            [
-              -9.0925026,
-              43.1860719
-            ]
-          ]
-        ]
-      },
-      "id": "way/1075001899"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1075038013",
-        "addr:city": "Camelle",
-        "addr:housenumber": "12",
-        "addr:postcode": "15121",
-        "addr:street": "Travesía Rociñas",
-        "building": "house",
-        "building:levels": "2",
-        "internet_access": "no",
-        "name": "Casa Manolo y Lola",
-        "phone": "+34 687 733 749",
-        "tourism": "chalet",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0933438,
-              43.1864083
-            ],
-            [
-              -9.0933616,
-              43.1863842
-            ],
-            [
-              -9.0933814,
-              43.1863572
-            ],
-            [
-              -9.093415,
-              43.1863116
-            ],
-            [
-              -9.0933047,
-              43.1862684
-            ],
-            [
-              -9.0932335,
-              43.1863652
-            ],
-            [
-              -9.0933438,
-              43.1864083
-            ]
-          ]
-        ]
-      },
-      "id": "way/1075038013"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111012202",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1568712,
-              43.1459192
-            ],
-            [
-              -9.1568732,
-              43.1459181
-            ],
-            [
-              -9.156875,
-              43.1459158
-            ],
-            [
-              -9.1568749,
-              43.1459124
-            ],
-            [
-              -9.156872,
-              43.1459098
-            ],
-            [
-              -9.1568687,
-              43.1459089
-            ],
-            [
-              -9.1568652,
-              43.1459094
-            ],
-            [
-              -9.1568617,
-              43.1459116
-            ],
-            [
-              -9.1568607,
-              43.1459142
-            ],
-            [
-              -9.156861,
-              43.145916
-            ],
-            [
-              -9.1568622,
-              43.1459176
-            ],
-            [
-              -9.156864,
-              43.1459188
-            ],
-            [
-              -9.1568663,
-              43.1459195
-            ],
-            [
-              -9.1568688,
-              43.1459196
-            ],
-            [
-              -9.1568712,
-              43.1459192
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111012202"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111012203",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1567333,
-              43.1457824
-            ],
-            [
-              -9.1567142,
-              43.1457615
-            ],
-            [
-              -9.1567049,
-              43.145765
-            ],
-            [
-              -9.1567248,
-              43.1457853
-            ],
-            [
-              -9.1567333,
-              43.1457824
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111012203"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111012205",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1567832,
-              43.1458402
-            ],
-            [
-              -9.1567686,
-              43.1458247
-            ],
-            [
-              -9.1567616,
-              43.145828
-            ],
-            [
-              -9.1567762,
-              43.1458438
-            ],
-            [
-              -9.1567832,
-              43.1458402
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111012205"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111012206",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1567655,
-              43.1458604
-            ],
-            [
-              -9.1567551,
-              43.145854
-            ],
-            [
-              -9.1567501,
-              43.1458402
-            ],
-            [
-              -9.1567408,
-              43.1458419
-            ],
-            [
-              -9.1567474,
-              43.1458537
-            ],
-            [
-              -9.1567389,
-              43.1458576
-            ],
-            [
-              -9.156742,
-              43.1458621
-            ],
-            [
-              -9.1567497,
-              43.1458585
-            ],
-            [
-              -9.1567601,
-              43.1458646
-            ],
-            [
-              -9.1567655,
-              43.1458604
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111012206"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111012207",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.156719,
-              43.1458164
-            ],
-            [
-              -9.1567174,
-              43.1458169
-            ],
-            [
-              -9.1567161,
-              43.1458178
-            ],
-            [
-              -9.1567152,
-              43.1458189
-            ],
-            [
-              -9.1567149,
-              43.1458202
-            ],
-            [
-              -9.1567152,
-              43.1458215
-            ],
-            [
-              -9.156716,
-              43.1458226
-            ],
-            [
-              -9.1567173,
-              43.1458235
-            ],
-            [
-              -9.1567189,
-              43.145824
-            ],
-            [
-              -9.1567207,
-              43.1458241
-            ],
-            [
-              -9.1567224,
-              43.1458238
-            ],
-            [
-              -9.1567239,
-              43.1458231
-            ],
-            [
-              -9.156725,
-              43.1458221
-            ],
-            [
-              -9.1567255,
-              43.1458209
-            ],
-            [
-              -9.1567256,
-              43.1458196
-            ],
-            [
-              -9.156725,
-              43.1458184
-            ],
-            [
-              -9.1567239,
-              43.1458174
-            ],
-            [
-              -9.1567225,
-              43.1458167
-            ],
-            [
-              -9.1567208,
-              43.1458163
-            ],
-            [
-              -9.156719,
-              43.1458164
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111012207"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111012210",
-        "area": "yes",
-        "artwork_type": "sculpture",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1568413,
-              43.1459313
-            ],
-            [
-              -9.1568459,
-              43.145931
-            ],
-            [
-              -9.1568492,
-              43.1459289
-            ],
-            [
-              -9.1568501,
-              43.1459257
-            ],
-            [
-              -9.1568489,
-              43.1459234
-            ],
-            [
-              -9.1568463,
-              43.1459218
-            ],
-            [
-              -9.1568419,
-              43.1459214
-            ],
-            [
-              -9.156838,
-              43.145923
-            ],
-            [
-              -9.1568363,
-              43.1459252
-            ],
-            [
-              -9.1568365,
-              43.1459278
-            ],
-            [
-              -9.1568382,
-              43.14593
-            ],
-            [
-              -9.1568413,
-              43.1459313
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111012210"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111997819",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1615657,
-              43.1506738
-            ],
-            [
-              -9.1615314,
-              43.150639
-            ],
-            [
-              -9.161503,
-              43.1505771
-            ],
-            [
-              -9.1614742,
-              43.1505886
-            ],
-            [
-              -9.161453,
-              43.1505871
-            ],
-            [
-              -9.1614284,
-              43.1505771
-            ],
-            [
-              -9.161466,
-              43.150659
-            ],
-            [
-              -9.1614913,
-              43.150671
-            ],
-            [
-              -9.1614797,
-              43.1506788
-            ],
-            [
-              -9.1614814,
-              43.1506931
-            ],
-            [
-              -9.1614955,
-              43.1506995
-            ],
-            [
-              -9.1615657,
-              43.1506738
-            ]
-          ]
-        ]
-      },
-      "id": "way/1111997819"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1113748862",
-        "addr:city": "Camariñas",
-        "addr:housenumber": "16",
-        "addr:postcode": "15123",
-        "addr:street": "Rúa Carme",
-        "air_conditioning": "yes",
-        "building": "yes",
+        "municipality": "Camariñas",
         "description": "Hotel vanguardista de 3 estrellas en pleno corazón de Costa da Morte. En la entrada de Camariñas, a escasos 50 metros de la playa y en plena Ruta dos Faros...",
-        "email": "reservas@hoteldevalardomar.com",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "name": "Hotel Devalar Do Mar",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "phone": "+34 634 91 66 31",
-        "reservation": "yes",
-        "rooms": "15",
-        "tourism": "hotel",
-        "website": "https://hoteldevalardomar.com/"
-      },
+        "name": "Hotel Devalar Do Mar"
+             },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1781954,
-              43.1398897
-            ],
-            [
-              -9.17841,
-              43.1395841
-            ],
-            [
-              -9.1780267,
-              43.1394408
-            ],
-            [
-              -9.1778121,
-              43.1397464
-            ],
-            [
-              -9.1780121,
-              43.1398212
-            ],
+        "type": "Point",
+        "coordinates": 
             [
               -9.1781954,
               43.1398897
             ]
-          ]
-        ]
-      },
-      "id": "way/1113748862"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1171548846",
-        "building": "apartments",
-        "building:levels": "3",
-        "description": "Consta de 2 dormitorios, sala de estar, cocina totalmente equipada con nevera y cafetera y baño con ducha y secador de pelo. Se proporcionan toallas y ropa de cama.",
-        "internet_access": "no",
-        "mobile": "+34 671 1083 399",
-        "name": "Apartamentos María de Lucía",
-        "phone": "+34 661 042 628",
-        "rooms": "2",
-        "tourism": "apartment",
-        "website": "https://www.booking.com/hotel/es/apartamentos-maria-de-lucia-arou.es.html?aid=7942751&sid=0692fb4dde70e3cb6e4698ac0b29c22c&dist=0&keep_landing=1&sb_price_type=total&type=total&",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1062718,
-              43.1833211
-            ],
-            [
-              -9.1063112,
-              43.1833016
-            ],
-            [
-              -9.1063324,
-              43.1832911
-            ],
-            [
-              -9.1063961,
-              43.1832372
-            ],
-            [
-              -9.1063424,
-              43.1831997
-            ],
-            [
-              -9.1063016,
-              43.1831713
-            ],
-            [
-              -9.1062569,
-              43.1832009
-            ],
-            [
-              -9.106241,
-              43.1832114
-            ],
-            [
-              -9.1061804,
-              43.1832469
-            ],
-            [
-              -9.1062718,
-              43.1833211
-            ]
-          ]
-        ]
-      },
-      "id": "way/1171548846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1191224725",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.108707,
-              43.1226179
-            ],
-            [
-              -9.1087003,
-              43.1225416
-            ],
-            [
-              -9.1085799,
-              43.1225465
-            ],
-            [
-              -9.1085814,
-              43.1225685
-            ],
-            [
-              -9.108707,
-              43.1226179
-            ]
-          ]
-        ]
-      },
-      "id": "way/1191224725"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1192695802",
-        "addr:city": "Vimianzo",
-        "addr:postcode": "15129",
-        "addr:street": "Rúa Trasariz",
-        "brand": "eroski",
-        "brand:wikidata": "Q1361349",
-        "internet_access": "no",
-        "opening_hours": "Mo-Sa 09:00-21:00; Su off",
-        "operator": "Eroski",
-        "power_supply": "yes",
-        "sanitary_dump_station": "yes",
-        "tourism": "caravan_site",
-        "water_point": "yes",
-        "wheelchair": "yes"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0364761,
-              43.1134149
-            ],
-            [
-              -9.0363824,
-              43.1133135
-            ],
-            [
-              -9.0357253,
-              43.1134534
-            ],
-            [
-              -9.0355787,
-              43.1134846
-            ],
-            [
-              -9.0356566,
-              43.1135806
-            ],
-            [
-              -9.0356714,
-              43.1135988
-            ],
-            [
-              -9.0358045,
-              43.1135684
-            ],
-            [
-              -9.0364761,
-              43.1134149
-            ]
-          ]
-        ]
-      },
-      "id": "way/1192695802"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1193075809",
-        "addr:city": "Camariñas",
-        "addr:place": "O Cotariño",
-        "addr:postcode": "15123",
+        "municipality": "Camariñas",
         "description": "Turismo rural en una aldea de tres casas (las tres ocupadas por el hotel) entre eucaliptos, pinares y maizales y a corta distancia de las playas de la ría y de la Costa de Reira.",
-        "email": "info@docotarino.com",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "name": "Hotel Rústico Lugar do Cotariño",
-        "nohousenumber": "yes",
-        "phone": "+34 629 214 379",
-        "reservation": "recommended",
-        "rooms": "7",
-        "tourism": "hotel"
+        "name": "Hotel Rústico Lugar do Cotariño"
+      
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.1870894,
-              43.1458021
-            ],
-            [
-              -9.186979,
-              43.1455373
-            ],
-            [
-              -9.1868763,
-              43.1454573
-            ],
-            [
-              -9.1868218,
-              43.1454368
-            ],
-            [
-              -9.1866947,
-              43.1454164
-            ],
-            [
-              -9.1866268,
-              43.1454139
-            ],
-            [
-              -9.1865577,
-              43.1453278
-            ],
-            [
-              -9.1865268,
-              43.145226
-            ],
-            [
-              -9.1861393,
-              43.1452595
-            ],
-            [
-              -9.1862048,
-              43.1454026
-            ],
-            [
-              -9.1861988,
-              43.145425
-            ],
-            [
-              -9.1861975,
-              43.1454299
-            ],
-            [
-              -9.1861375,
-              43.1456567
-            ],
-            [
-              -9.186669,
-              43.1457527
-            ],
-            [
-              -9.1867145,
-              43.1457383
-            ],
-            [
-              -9.1867815,
-              43.1457169
-            ],
-            [
-              -9.1868914,
-              43.1457426
-            ],
-            [
-              -9.1870012,
-              43.1457873
-            ],
-            [
-              -9.1870499,
-              43.1457955
-            ],
+        "type": "Point",
+        "coordinates": 
             [
               -9.1870894,
               43.1458021
             ]
-          ]
-        ]
-      },
-      "id": "way/1193075809"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
+        "municipality": "Vimianzo",
         "@id": "way/1193283379",
-        "access": "private",
-        "addr:city": "Baiñas",
-        "addr:place": "O Val",
-        "addr:postcode": "15127",
         "name": "Área Recreativa do Val",
-        "tourism": "picnic_site"
+        "description": "Lugar para picnic"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0254832,
-              43.0264372
-            ],
-            [
-              -9.0254948,
-              43.0260643
-            ],
-            [
-              -9.0253122,
-              43.025971
-            ],
-            [
-              -9.0248092,
-              43.0257263
-            ],
-            [
-              -9.0246339,
-              43.0263366
-            ],
-            [
-              -9.024773,
-              43.0263493
-            ],
-            [
-              -9.0249339,
-              43.0263228
-            ],
-            [
-              -9.0250832,
-              43.0263313
-            ],
-            [
-              -9.0252658,
-              43.02638
-            ],
-            [
-              -9.0254209,
-              43.0264351
-            ],
+        "type": "Point",
+        "coordinates":
             [
               -9.0254832,
               43.0264372
             ]
-          ]
-        ]
-      },
-      "id": "way/1193283379"
+         
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1206545347",
-        "artwork_type": "architecture",
-        "building": "yes",
-        "mapillary": "668303292027822",
-        "name": "Casa do Aleman",
-        "tourism": "artwork",
-        "website": "https://mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.0913696,
-              43.1842314
-            ],
-            [
-              -9.0913786,
-              43.1841991
-            ],
-            [
-              -9.0913301,
-              43.1841919
-            ],
-            [
-              -9.0913211,
-              43.1842242
-            ],
-            [
-              -9.0913696,
-              43.1842314
-            ]
-          ]
-        ]
-      },
-      "id": "way/1206545347"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1111993592",
-        "artwork_type": "mural",
+        "municipality": "Camariñas",
         "name": "Paisaxes de Xaviña",
-        "tourism": "artwork"
+        "description": "Ruta da ínsua de xaviña ."
       },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
+        "type": "Point",
+        "coordinates":
           [
             -9.1605775,
             43.1465105
-          ],
-          [
-            -9.160861,
-            43.146494
           ]
-        ]
-      },
-      "id": "way/1111993592"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2863809471",
-        "email": "info@oregueirodoallo.com",
-        "fax": "+34 881 888 919",
-        "name": "Hotel \"Regueiro do Allo\"",
-        "phone": "+34 981 718 606",
-        "smoking": "no",
-        "stars": "3",
-        "tourism": "hotel",
-        "website": "http://www.oregueirodoallo.com/",
-        "wheelchair": "yes"
+        "municipality": "Zas",
+        "name": "Hotel Regueiro ",
+        "description": "Hotel en Zas."
+       
       },
       "geometry": {
         "type": "Point",
@@ -2570,17 +234,15 @@
           -8.9539903,
           43.1523954
         ]
-      },
-      "id": "node/2863809471"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3101606730",
-        "addr:street": "Camiño a Punta Lobeiras",
+        "municipality": "Camariñas",
         "name": "Miradoiro de Punta Lobeiras",
-        "tourism": "viewpoint",
-        "wheelchair": "yes"
+        "description": "Miradoiro predo da praia das Lobeiras  ."   
       },
       "geometry": {
         "type": "Point",
@@ -2591,16 +253,12 @@
       },
       "id": "node/3101606730"
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4139274760",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Puerto Arnela",
-        "stars": "2",
-        "tourism": "hotel",
-        "wheelchair": "yes",
+        "municipality": "Camariñas",
+        "name": "Hotel Puerto Arnela",
         "description": "Hotel restaurante Puerto Arnela"
       },
       "geometry": {
@@ -2609,80 +267,15 @@
           -9.1846456,
           43.1292405
         ]
-      },
-      "id": "node/4139274760"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4139274773",
-        "tourism": "hotel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.184813,
-          43.1301265
-        ]
-      },
-      "id": "node/4139274773"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4320656616",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0488555,
-          43.1419277
-        ]
-      },
-      "id": "node/4320656616"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4352196174",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1582283,
-          43.1301869
-        ]
-      },
-      "id": "node/4352196174"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4352247501",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0893633,
-          43.1825276
-        ]
-      },
-      "id": "node/4352247501"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4711579489",
-        "addr:housenumber": "39",
-        "addr:postcode": "15121",
-        "internet_access": "wlan",
+        "municipality": "Vimianzo",
         "name": "A Casa do Raposito",
-        "name:en": "The Little Fox House",
-        "tourism": "guest_house",
-        "website": "http://www.thelittlefoxhouse.com"
+        "description": "Casa turística "
       },
       "geometry": {
         "type": "Point",
@@ -2690,15 +283,15 @@
           -9.0943434,
           43.1355886
         ]
-      },
-      "id": "node/4711579489"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5639940998",
-        "name": "Ave del mar",
-        "tourism": "hotel"
+        "municipality": "Camariñas",
+        "name": "Hotel Ave del mar",
+        "description": "Hotel Ave del mar"
       },
       "geometry": {
         "type": "Point",
@@ -2706,54 +299,16 @@
           -9.1845525,
           43.1293723
         ]
-      },
-      "id": "node/5639940998"
+      }
     },
+   
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5640045433",
-        "addr:city": "Camariñas",
-        "addr:postcode": "15123",
-        "addr:street": "Estrada do Cabo Vilán a Camariñas",
-        "information": "office",
-        "nohousenumber": "yes",
-        "opening_hours": "Mo-Su 11:00-14:00, 15:30-19:00",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.2109755,
-          43.1598017
-        ]
-      },
-      "id": "node/5640045433"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6171397022",
-        "information": "office",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9163381,
-          43.1003197
-        ]
-      },
-      "id": "node/6171397022"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6177290546",
-        "artwork_type": "sculpture",
-        "material": "stone",
+        "image": "images/Castelo.jpeg",
+        "municipality": "Camariñas",
         "name": "A palilleira",
-        "tourism": "artwork"
+        "description": "Estatua dunha palilleira na praza do concello."
       },
       "geometry": {
         "type": "Point",
@@ -2761,17 +316,17 @@
           -9.1800661,
           43.1301835
         ]
-      },
-      "id": "node/6177290546"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6177290551",
-        "artwork_type": "sculpture",
-        "material": "metal",
+        "image": "images/muller.jpeg",
+        "municipality": "Camariñas",
         "name": "Estatua á Muller",
-        "tourism": "artwork"
+        "description": "Estatua en honor a muller traballadora."
+
       },
       "geometry": {
         "type": "Point",
@@ -2779,31 +334,17 @@
           -9.1804241,
           43.1294078
         ]
-      },
-      "id": "node/6177290551"
+      }
     },
+
+   
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6904792010",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1919114,
-          43.1565235
-        ]
-      },
-      "id": "node/6904792010"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7980859390",
-        "artwork_type": "bust",
+        "municipality": "Camariñas",
         "name": "Don Jesús",
-        "tourism": "artwork"
+        "description": "Busto do que foi párroco de Camariñas"
+      
       },
       "geometry": {
         "type": "Point",
@@ -2811,16 +352,18 @@
           -9.1834204,
           43.1345773
         ]
-      },
-      "id": "node/7980859390"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7981210978",
-        "artwork_type": "statue",
+        "image": "images/virxe.jpg",
+        "municipality": "Camariñas",
         "name": "Virxe do Carme",
-        "tourism": "artwork"
+        "description": "Estatua en honor a Virxe do Carme"
+
+ 
       },
       "geometry": {
         "type": "Point",
@@ -2831,77 +374,15 @@
       },
       "id": "node/7981210978"
     },
+
+   
+   
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7981210989",
-        "information": "map",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1823345,
-          43.1298915
-        ]
-      },
-      "id": "node/7981210989"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7981210994",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1846821,
-          43.1285883
-        ]
-      },
-      "id": "node/7981210994"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7981210995",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1846004,
-          43.124179
-        ]
-      },
-      "id": "node/7981210995"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7981210996",
-        "board_type": "nature",
-        "information": "board",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.2106621,
-          43.1596402
-        ]
-      },
-      "id": "node/7981210996"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7981496005",
-        "internet_access": "wlan",
+        "municipality": "Camariñas",
         "name": "O Parranda",
-        "tourism": "hotel",
-        "wheelchair": "yes"
+        "description": "Hotel O Parranda"
       },
       "geometry": {
         "type": "Point",
@@ -2909,48 +390,16 @@
           -9.1810452,
           43.1299459
         ]
-      },
-      "id": "node/7981496005"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8317641491",
-        "information": "map",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1143172,
-          43.1391212
-        ]
-      },
-      "id": "node/8317641491"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8317746524",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1013479,
-          43.1365221
-        ]
-      },
-      "id": "node/8317746524"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8514919307",
-        "caravans": "yes",
+        "municipality": "Zas",
         "name": "Campamento Turístico Santa María de Brandoñas",
-        "tents": "yes",
-        "tourism": "camp_site"
+        "description": "Campamento"
+
       },
       "geometry": {
         "type": "Point",
@@ -2958,47 +407,16 @@
           -8.9636663,
           43.0034898
         ]
-      },
-      "id": "node/8514919307"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9022390389",
-        "board_type": "nature",
-        "information": "board",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1817475,
-          43.1642939
-        ]
-      },
-      "id": "node/9022390389"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9022446444",
-        "tourism": "viewpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1449378,
-          43.1874172
-        ]
-      },
-      "id": "node/9022446444"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9248240828",
+        "municipality": "Zas",
         "name": "Pensión Rústica Casa do Relojero",
-        "tourism": "guest_house"
+        "description": "Pensión rústica."
+
       },
       "geometry": {
         "type": "Point",
@@ -3006,16 +424,16 @@
           -8.9164205,
           43.0973364
         ]
-      },
-      "id": "node/9248240828"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9554622230",
+        "image": "images/batans.jpg",
+        "municipality": "Vimianzo",
         "name": "Os Batáns do Mosquetín",
-        "note": "vellos batáns restaurados e musealizados",
-        "tourism": "attraction"
+        "description": "Conxunto etnográfico Batáns e Muíños do Mosquetín"
       },
       "geometry": {
         "type": "Point",
@@ -3023,39 +441,17 @@
           -8.9860341,
           43.1539169
         ]
-      },
-      "id": "node/9554622230"
+      }
     },
+
+   
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9554627254",
-        "information": "board",
-        "name": "Conxunto etnográfico Batáns e Muíños do Mosquetín",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.986313,
-          43.1540388
-        ]
-      },
-      "id": "node/9554627254"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9763645967",
-        "board_type": "tourism",
-        "information": "board",
-        "mapillary": "3602675003349556",
-        "name": "Museo Man de Camelle",
-        "operator": "Concello de Camariñas",
-        "tourism": "information",
-        "website": "https://mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
+        "image": "images/casaaleman.jpeg",
+        "municipality": "Camariñas",
+        "name": "Casa de Manfred",
+        "description": "Casa na que habitou o artista de Camelle Manfred"
       },
       "geometry": {
         "type": "Point",
@@ -3063,114 +459,18 @@
           -9.0897163,
           43.1880637
         ]
-      },
-      "id": "node/9763645967"
+      }
     },
+
+    
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9763645968",
-        "board_type": "tourism",
-        "information": "board",
-        "mapillary": "143862012104863",
-        "name": "Museo Xardín de Man",
-        "operator": "Concello de Camariñas",
-        "subject:wikidata": "Q76170",
-        "subject:wikipedia": "es:Manfred Gnädinger",
-        "tourism": "information",
-        "website": "https://www.mandecamelle.com/",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0897539,
-          43.1880683
-        ]
-      },
-      "id": "node/9763645968"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9763645969",
-        "artwork_type": "installation",
-        "information": "audioguide",
-        "mapillary": "237882675874472",
-        "material": "stone",
-        "memorial": "sculpture",
-        "tourism": "artwork",
-        "website": "https://www.mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0897661,
-          43.1880685
-        ]
-      },
-      "id": "node/9763645969"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9766798823",
-        "artwork_type": "installation",
-        "information": "audioguide",
-        "mapillary": "620126513436439",
-        "material": "stone",
-        "memorial": "sculpture",
-        "tourism": "information",
-        "website": "https://www.mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0924196,
-          43.1781378
-        ]
-      },
-      "id": "node/9766798823"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9766798824",
-        "artwork_type": "sculpture",
-        "information": "audioguide",
-        "mapillary": "1374330500129638",
-        "material": "stone",
-        "memorial": "sculpture",
-        "tourism": "information",
-        "website": "https://mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0917854,
-          43.1785437
-        ]
-      },
-      "id": "node/9766798824"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9797863495",
-        "artwork_type": "statue",
-        "mapillary": "332392782447969",
-        "material": "stone",
-        "name": "Man",
-        "tourism": "artwork",
-        "website": "https://mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
+        "image": "images/manestatua.jpeg",
+        "municipality": "Camariñas",
+        "name": "Estatua de Man",
+        "description": "Estatua de pedra de Man fronte o museo"
       },
       "geometry": {
         "type": "Point",
@@ -3178,69 +478,16 @@
           -9.0911237,
           43.184319
         ]
-      },
-      "id": "node/9797863495"
+      }
     },
+   
+    
+    
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9805474114",
-        "artwork_type": "installation",
-        "information": "audioguide",
-        "material": "stone",
-        "memorial": "sculpture",
-        "tourism": "artwork",
-        "website": "https://www.mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0913024,
-          43.1826797
-        ]
-      },
-      "id": "node/9805474114"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9809261990",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9220086,
-          43.0084022
-        ]
-      },
-      "id": "node/9809261990"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10087143576",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9945258,
-          43.1463268
-        ]
-      },
-      "id": "node/10087143576"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10188141851",
-        "information": "route_marker",
-        "material": "wood",
-        "ref": "Molinos vecinales de Maquía",
-        "tourism": "information"
+        "municipality": "Camariñas",
+        "name": "Molinos vecinales de Maquía"
       },
       "geometry": {
         "type": "Point",
@@ -3248,53 +495,16 @@
           -9.1507865,
           43.1495707
         ]
-      },
-      "id": "node/10188141851"
+      }
     },
-    {
+
+
+ {
       "type": "Feature",
       "properties": {
-        "@id": "node/10681016443",
-        "information": "board",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0305453,
-          43.11108
-        ]
-      },
-      "id": "node/10681016443"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11047901464",
-        "tourism": "picnic_site"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1308923,
-          43.1378152
-        ]
-      },
-      "id": "node/11047901464"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11077223929",
-        "access": "yes",
-        "addr:city": "Arou",
-        "addr:postcode": "15121",
-        "addr:street": "Carretera Camelle-Arou",
-        "mapillary": "967358737716464",
-        "material": "merendeiro_do_curro",
-        "name": "Merendeiro do Curro",
-        "nohousenumber": "yes",
-        "tourism": "picnic_site"
+        "municipality": "Camariñas",
+        "name": "Merendeiro do Curro"
+        
       },
       "geometry": {
         "type": "Point",
@@ -3302,145 +512,337 @@
           -9.1040489,
           43.1869458
         ]
-      },
-      "id": "node/11077223929"
+      }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/11081768779",
-        "board_type": "nature",
-        "information": "board",
-        "name": "Praia de Arou",
-        "operator": "Concello de Camariñas",
-        "tourism": "information"
+        "municipality": "Vimianzo",
+        "name": "Igrexa de Santiago de Cereixo",
+        "description": "A igrexa de Santiago de Cereixo é de estilo románico e conserva a súa arquitectura case integramente."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.1059078,
-          43.1846412
+          -9.12640,
+          43.13214
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Igrexa de San Martiño",
+        "description": "Igrexa de Carantoña en honor a San Martiño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.09456,
+          43.13567
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camariñas",
+        "name": "Estatua de Man",
+        "description": "Estatua de pedra de Man fronte o museo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0911237,
+          43.184319
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Muíño da Agra",
+        "description": "Muiño antigo no centro da vila."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03528,
+          43.10878
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "images/castro.jpeg",
+        "municipality": "Vimianzo",
+        "name": "Castro das Barreiras  ",
+        "description": "Castro ainda sen investigar en pleno nucleo municipal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.04180,
+          43.09864
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Camariñas",
+        "name": "Estatua de Man",
+        "description": "Estatua de pedra de Man fronte o museo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0911237,
+          43.184319
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Igrexa San Vicenzo ",
+        "description": "Parroquia de Vimianzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03243,
+          43.11014
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "images/Castelo.jpg",
+        "municipality": "Vimianzo",
+        "name": "Castelo de Vimianzo",
+        "description": "Castelo de Vimianzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03143,
+          43.11121
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Capela de Trasouteiro",
+        "description": "Capela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.02709,
+          43.10547
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Capela de San Bartolo",
+        "description": "Capela situada no cumio do monte de San Bartolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.01286,
+          43.10521
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Igrexa San Xoán de Calo",
+        "description": "Igrexa de San Xoán de Calo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.04750,
+          43.13623
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Igrexa de Santo Antoiño",
+        "description": "Igrexa da parroquia de Baiñas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.01890,
+          43.02838
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zas",
+        "name": "Carballeira de Astrai  ",
+        "description": "Lugar de encontro natural e de Ocio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.96332,
+          43.14353
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "images/paseofluvial.jpeg",
+        "municipality": "Zas",
+        "name": "Paseo Fluvial Baio  ",
+        "description": "Pasea con pista para corredores a carón do río grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.96534,
+          43.14737
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "image": "images/baioiglesia.jpeg",
+        "municipality": "Zas",
+        "name": "Igrexa Nova de Santa María de Baio",
+        "description": "Igrexa de Santa María de nova construcción"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.96186,
+          43.14927
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "image": "images/pedravixia.jpeg",
+        "municipality": "Zas",
+        "name": "Pedra Vixía  ",
+        "description": "Paraxe Natura de Pedra Vixía"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.94685,
+          43.14636
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zas",
+        "name": "Torres do Allo  ",
+        "description": "Torres do allo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.93904,
+          43.16014
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "image": "images/brandomil.jpeg",
+        "municipality": "Zas",
+        "name": "Ponte de Brandomil  ",
+        "description": "Ponte Romana que atravesa o río Xallas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -8.92203,
+          43.00805
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Zas",
+        "name": "Igrexa de Santo André de Zas ",
+        "description": "Igrexa da parroquia de Zas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.91596,
+          43.09753
+        ]
+      }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        "municipality": "Vimianzo",
+        "name": "Torres de Cereixo",
+        "description": "Torres de Cereixo"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.12702,
+          43.13242
         ]
       },
       "id": "node/11081768779"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11137052671",
-        "board_type": "history",
-        "information": "board",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0911377,
-          43.1826665
-        ]
-      },
-      "id": "node/11137052671"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11137052674",
-        "board_type": "nature",
-        "information": "board",
-        "mapillary": "188199114275411",
-        "name": "Ruta Litoral de Camariñas",
-        "operator": "Concello de Camariñas",
-        "tourism": "information",
-        "website": "https://camarinas.net/media/documentos/ruta_litoral_sendero_azul.pdf"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0911392,
-          43.1843711
-        ]
-      },
-      "id": "node/11137052674"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11180496751",
-        "addr:city": "Camelle",
-        "addr:housenumber": "9",
-        "addr:postcode": "15121",
-        "addr:street": "Rúa do Porto",
-        "information": "audioguide",
-        "mapillary": "1987145924982940",
-        "tourism": "information",
-        "website": "https://mandecamelle.com/",
-        "wikidata": "Q76170",
-        "wikipedia": "es:Manfred Gnädinger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0911545,
-          43.1843517
-        ]
-      },
-      "id": "node/11180496751"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11180496754",
-        "artwork_type": "mural",
-        "mapillary": "260937386867771",
-        "material": "stone",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0911947,
-          43.1842365
-        ]
-      },
-      "id": "node/11180496754"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11180496755",
-        "artwork_type": "mural",
-        "mapillary": "260937386867771",
-        "material": "stone",
-        "tourism": "artwork"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0912191,
-          43.1842324
-        ]
-      },
-      "id": "node/11180496755"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11197206768",
-        "board_type": "rules",
-        "information": "board",
-        "mapillary": "1055847508758278",
-        "operator": "Concello de Camariñas",
-        "support": "street_furniture:information",
-        "tourism": "information"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0899933,
-          43.179016
-        ]
-      },
-      "id": "node/11197206768"
     }
+
+   
   ]
 }
