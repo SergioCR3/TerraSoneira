@@ -1,0 +1,20 @@
+        .popup-content {
+            max-width: 500px;
+        }
+        img{
+            max-height: 80px;
+        }
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #map {
+            height: 80vh;
+        }
+        #buttons {
+            margin-top: 10px;
+        }
+        button {
+            margin-right: 10px;
+        }

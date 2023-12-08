@@ -305,7 +305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "images/Castelo.jpeg",
+        "image": "images/palilleira.jpeg",
         "municipality": "Camariñas",
         "name": "A palilleira",
         "description": "Estatua dunha palilleira na praza do concello."
@@ -842,7 +842,5 @@
       },
       "id": "node/11081768779"
     }
-
-   
   ]
 }

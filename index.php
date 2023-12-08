@@ -3,38 +3,30 @@
 <head>
     <title>Lugares de Interés Turístico en Terra de Soneira</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <style>
-        .popup-content {
-            max-width: 500px;
-        }
-        img{
-            max-height: 80px;
-        }
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-        }
-        #map {
-            height: 80vh;
-        }
-        #buttons {
-            margin-top: 10px;
-        }
-        button {
-            margin-right: 10px;
-        }
-    </style>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="home.css">
+
 </head>
 <body>
-    <div id="map"></div>
-    <div id="buttons">
-        <button onclick="filterMarkers('Camariñas')">Camariñas</button>
-        <button onclick="filterMarkers('Vimianzo')">Vimianzo</button>
-        <button onclick="filterMarkers('Zas')">Zas</button>
-        <button onclick="showAllMarkers()">Mostrar Todos</button>
+    <div id="header">
+        <h1 class="display-4">Soneira Tour</h1>
     </div>
+    <nav class="navbar navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand">Lugares de Interés</a>
+            <div class="btn-group">
+                <button class="btn btn-secondary" onclick="filterMarkers('Camariñas')">Camariñas</button>
+                <button class="btn btn-secondary" onclick="filterMarkers('Vimianzo')">Vimianzo</button>
+                <button class="btn btn-secondary" onclick="filterMarkers('Zas')">Zas</button>
+                <button class="btn btn-secondary" onclick="showAllMarkers()">Mostrar Todos</button>
+            </div>
+        </div>
+    </nav>
+    <div id="map"></div>
 
     <script>
         var map = L.map('map').setView([43.102324, -9.0707226], 12);
